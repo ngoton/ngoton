@@ -47,7 +47,7 @@
 
 [website]: http://ngoton.it
 [company]: http://tinhoctainha.com
-[facebook]: https://www.facebook.com/ngoton.it.fanpage
+[facebook]: https://www.facebook.com/ngoton.it
 [twitter]: https://twitter.com/ngo_ton
 [youtube]: https://www.youtube.com/c/NgôTôn
 [linkedin]: https://linkedin.com/in/ngoton
